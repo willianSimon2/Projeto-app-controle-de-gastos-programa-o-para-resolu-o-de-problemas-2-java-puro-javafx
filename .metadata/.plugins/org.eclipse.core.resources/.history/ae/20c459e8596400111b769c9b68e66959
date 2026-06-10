@@ -1,0 +1,18 @@
+package gui;
+
+import javafx.fxml.FXML;
+import javafx.scene.control.Button;
+/*
+ classe responsavel por controlar açoes na tela, como quando clicar em login,
+  logar na conta e trocar para a tela principal 
+  */
+public class TelaDeLoginController {
+	@FXML
+	private Button btLogin;
+	@FXML
+	private Button btCriarCOnta;
+	
+	public void onBtLoginAction() {
+		System.out.println("Não foi possivel logar");
+	}
+}

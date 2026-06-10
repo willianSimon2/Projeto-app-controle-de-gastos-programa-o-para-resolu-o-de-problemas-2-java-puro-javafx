@@ -5,13 +5,12 @@
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.AnchorPane?>
 
-
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.TelaCriarContaController">
    <children>
-      <TextField layoutX="126.0" layoutY="252.0" promptText="Email" />
-      <PasswordField layoutX="126.0" layoutY="285.0" promptText="Senha" />
-      <PasswordField layoutX="126.0" layoutY="319.0" promptText="Repetir senha" />
-      <Button layoutX="126.0" layoutY="361.0" mnemonicParsing="false" text="Voltar" />
-      <Button layoutX="200.0" layoutY="361.0" mnemonicParsing="false" text="Criar Conta" />
+      <TextField fx:id="email" layoutX="126.0" layoutY="252.0" promptText="Email" />
+      <PasswordField fx:id="senha" layoutX="126.0" layoutY="285.0" promptText="Senha" />
+      <PasswordField fx:id="repetirSenha" layoutX="126.0" layoutY="319.0" promptText="Repetir senha" />
+      <Button fx:id="btVoltar" layoutX="126.0" layoutY="361.0" mnemonicParsing="false" onAction="#onBtVoltarAction" text="Voltar" />
+      <Button fx:id="btCriarConta" layoutX="200.0" layoutY="361.0" mnemonicParsing="false" onAction="#onBtCriarContaAction" text="Criar Conta" />
    </children>
 </AnchorPane>

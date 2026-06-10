@@ -5,10 +5,10 @@
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane prefHeight="800.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane prefHeight="800.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.TelaDeLoginController">
    <children>
-      <Button layoutX="116.0" layoutY="313.0" mnemonicParsing="false" text="Criar conta" />
-      <Button layoutX="214.0" layoutY="313.0" mnemonicParsing="false" text="Login" />
+      <Button fx:id="btCriarCOnta" layoutX="116.0" layoutY="313.0" mnemonicParsing="false" text="Criar conta" />
+      <Button fx:id="btLogin" layoutX="214.0" layoutY="313.0" mnemonicParsing="false" onAction="#onBtLogin" text="Login" />
       <TextField layoutX="116.0" layoutY="226.0" promptText="Email" />
       <PasswordField layoutX="116.0" layoutY="271.0" promptText="Senha" />
    </children>
