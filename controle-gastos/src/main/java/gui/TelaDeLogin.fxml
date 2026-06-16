@@ -7,9 +7,9 @@
 
 <AnchorPane prefHeight="800.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.TelaDeLoginController">
    <children>
-      <Button fx:id="btCriarCOnta" layoutX="116.0" layoutY="313.0" mnemonicParsing="false" text="Criar conta" />
+      <Button fx:id="btCriarCOnta" layoutX="116.0" layoutY="313.0" mnemonicParsing="false" onAction="#onBtCriarConta" text="Criar conta" />
       <Button fx:id="btLogin" layoutX="214.0" layoutY="313.0" mnemonicParsing="false" onAction="#onBtLogin" text="Login" />
-      <TextField layoutX="116.0" layoutY="226.0" promptText="Email" />
-      <PasswordField layoutX="116.0" layoutY="271.0" promptText="Senha" />
+      <TextField fx:id="email" layoutX="116.0" layoutY="226.0" promptText="Email" />
+      <PasswordField fx:id="senha" layoutX="116.0" layoutY="271.0" promptText="Senha" />
    </children>
 </AnchorPane>

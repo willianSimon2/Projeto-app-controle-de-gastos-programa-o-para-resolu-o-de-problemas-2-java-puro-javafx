@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_ppUQ4WOVEfG0-9Lze-WlzQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ppUQ4mOVEfG0-9Lze-WlzQ" bindingContexts="_ppUQ62OVEfG0-9Lze-WlzQ">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;TelaCriarConta.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaCriarConta.fxml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/gui/TelaCriarConta.fxml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TelaCriarContaController.java&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaCriarContaController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/gui/TelaCriarContaController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TelaDeLoginController.java&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaDeLoginController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/gui/TelaDeLoginController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;controle-gastos/src/main/java/br/com/willian/controlegastos/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/br/com/willian/controlegastos/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;TelaDeLogin.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaDeLogin.fxml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/gui/TelaDeLogin.fxml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;TelaPrincipal.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaPrincipal.fxml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/gui/TelaPrincipal.fxml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;controle-gastos/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;controle-gastos/src/main/controlegastos/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/controlegastos/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;controle-gastos/src/main/java/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TelaDeLoginController.java&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaDeLoginController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/gui/TelaDeLoginController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;TelaPrincipal.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaPrincipal.fxml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/gui/TelaPrincipal.fxml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;TelaCriarConta.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaCriarConta.fxml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/gui/TelaCriarConta.fxml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;AdicionarGanhos.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/AdicionarGanhos.fxml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/gui/AdicionarGanhos.fxml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;TelaDeLogin.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaDeLogin.fxml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/gui/TelaDeLogin.fxml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TelaCriarContaController.java&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaCriarContaController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/gui/TelaCriarContaController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;controle-gastos/src/main/java/br/com/willian/controlegastos/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/br/com/willian/controlegastos/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;controle-gastos/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;controle-gastos/src/main/controlegastos/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/controlegastos/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;controle-gastos/src/main/java/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/controle-gastos/src/main/java/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_ppUQ4mOVEfG0-9Lze-WlzQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_p1UskmOVEfG0-9Lze-WlzQ" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
@@ -81,9 +81,10 @@
           <tags>persp.editorOnboardingCommand:New$$$Ctrl+N</tags>
           <tags>persp.editorOnboardingCommand:Open Type$$$Ctrl+Shift+T</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_p8N-wWOVEfG0-9Lze-WlzQ" selectedElement="_p8N-y2OVEfG0-9Lze-WlzQ" horizontal="true">
-            <children xsi:type="basic:PartSashContainer" xmi:id="_p8N-wmOVEfG0-9Lze-WlzQ" containerData="1000" selectedElement="_p8N-w2OVEfG0-9Lze-WlzQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_p8N-wmOVEfG0-9Lze-WlzQ" containerData="2100" selectedElement="_p8N-w2OVEfG0-9Lze-WlzQ">
               <children xsi:type="basic:PartStack" xmi:id="_p8N-w2OVEfG0-9Lze-WlzQ" elementId="left" containerData="6000" selectedElement="_p8N-xGOVEfG0-9Lze-WlzQ">
                 <tags>org.eclipse.e4.primaryNavigationStack</tags>
+                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_p8N-xGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_p8HREGOVEfG0-9Lze-WlzQ" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:Java</tags>
@@ -108,11 +109,20 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_p8N-y2OVEfG0-9Lze-WlzQ" containerData="9000" selectedElement="_exD4YGRaEfGPQMD3QnvhfQ" horizontal="true">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_exD4YGRaEfGPQMD3QnvhfQ" containerData="5000" selectedElement="_p8N-1mOVEfG0-9Lze-WlzQ">
-                <children xsi:type="advanced:Placeholder" xmi:id="_p8N-zGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.editorss" containerData="6288" ref="_p8DmsGOVEfG0-9Lze-WlzQ"/>
-                <children xsi:type="basic:PartStack" xmi:id="_p8N-1mOVEfG0-9Lze-WlzQ" elementId="bottom" containerData="3712" selectedElement="_p8N-22OVEfG0-9Lze-WlzQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_p8N-y2OVEfG0-9Lze-WlzQ" containerData="7900" selectedElement="_bnWIwGX3EfGtNKiJi_DTZA" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_bnWIwGX3EfGtNKiJi_DTZA" containerData="5000" selectedElement="_5F1C8GkLEfGXisnrDp3NYA">
+                <children xsi:type="basic:PartSashContainer" xmi:id="_5F1C8GkLEfGXisnrDp3NYA" containerData="5000" selectedElement="_5F1C8WkLEfGXisnrDp3NYA">
+                  <children xsi:type="advanced:Placeholder" xmi:id="_p8N-zGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.editorss" containerData="5055" ref="_p8DmsGOVEfG0-9Lze-WlzQ"/>
+                  <children xsi:type="basic:PartStack" xmi:id="_5F1C8WkLEfGXisnrDp3NYA" elementId="PartStack@643ba7ba" containerData="4945" selectedElement="_p8N-22OVEfG0-9Lze-WlzQ">
+                    <children xsi:type="advanced:Placeholder" xmi:id="_p8N-22OVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.console.ConsoleView" ref="_p8IfNGOVEfG0-9Lze-WlzQ" closeable="true">
+                      <tags>View</tags>
+                      <tags>categoryTag:General</tags>
+                    </children>
+                  </children>
+                </children>
+                <children xsi:type="basic:PartStack" xmi:id="_p8N-1mOVEfG0-9Lze-WlzQ" elementId="bottom" visible="false" containerData="4548" selectedElement="_p8N-12OVEfG0-9Lze-WlzQ">
                   <tags>org.eclipse.e4.secondaryDataStack</tags>
+                  <tags>Minimized</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_p8N-12OVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.views.ProblemView" ref="_p8IfMGOVEfG0-9Lze-WlzQ" closeable="true">
                     <tags>View</tags>
                     <tags>categoryTag:General</tags>
@@ -126,10 +136,6 @@
                     <tags>categoryTag:Java</tags>
                   </children>
                   <children xsi:type="advanced:Placeholder" xmi:id="_p8N-2mOVEfG0-9Lze-WlzQ" elementId="org.eclipse.search.ui.views.SearchView" toBeRendered="false" ref="_p8IfM2OVEfG0-9Lze-WlzQ" closeable="true">
-                    <tags>View</tags>
-                    <tags>categoryTag:General</tags>
-                  </children>
-                  <children xsi:type="advanced:Placeholder" xmi:id="_p8N-22OVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.console.ConsoleView" ref="_p8IfNGOVEfG0-9Lze-WlzQ" closeable="true">
                     <tags>View</tags>
                     <tags>categoryTag:General</tags>
                   </children>
@@ -226,10 +232,9 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_p8DmsGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.editorss" selectedElement="_p8DmsWOVEfG0-9Lze-WlzQ">
-      <children xsi:type="basic:PartStack" xmi:id="_p8DmsWOVEfG0-9Lze-WlzQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_73ZVYGRaEfGPQMD3QnvhfQ">
+      <children xsi:type="basic:PartStack" xmi:id="_p8DmsWOVEfG0-9Lze-WlzQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_c_NnoGRXEfGPQMD3QnvhfQ">
         <tags>EditorStack</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
-        <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_cqMSkGOWEfGYHZpsmiflgw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Main.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; partName=&quot;Main.java&quot; title=&quot;Main.java&quot; tooltip=&quot;controle-gastos/src/main/java/br/com/willian/controlegastos/Main.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/controle-gastos/src/main/java/br/com/willian/controlegastos/Main.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;945&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -237,27 +242,37 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_c_NnoGRXEfGPQMD3QnvhfQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TelaDeLoginController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TelaDeLoginController.java&quot; partName=&quot;TelaDeLoginController.java&quot; title=&quot;TelaDeLoginController.java&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaDeLoginController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/controle-gastos/src/main/java/gui/TelaDeLoginController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;807&quot; selectionTopPixel=&quot;180&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TelaDeLoginController.java&quot; partName=&quot;TelaDeLoginController.java&quot; title=&quot;TelaDeLoginController.java&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaDeLoginController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/controle-gastos/src/main/java/gui/TelaDeLoginController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1482&quot; selectionTopPixel=&quot;799&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_73ZVYGRaEfGPQMD3QnvhfQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TelaCriarContaController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TelaCriarContaController.java&quot; partName=&quot;TelaCriarContaController.java&quot; title=&quot;TelaCriarContaController.java&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaCriarContaController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/controle-gastos/src/main/java/gui/TelaCriarContaController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;958&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TelaCriarContaController.java&quot; partName=&quot;TelaCriarContaController.java&quot; title=&quot;TelaCriarContaController.java&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaCriarContaController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/controle-gastos/src/main/java/gui/TelaCriarContaController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1556&quot; selectionTopPixel=&quot;277&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_zj6fcGReEfGPQMD3QnvhfQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TelaDeLogin.fxml" iconURI="platform:/plugin/org.eclipse.ui.genericeditor/icons/full/obj16/generic_editor.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;TelaDeLogin.fxml&quot; partName=&quot;TelaDeLogin.fxml&quot; title=&quot;TelaDeLogin.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaDeLogin.fxml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/controle-gastos/src/main/java/gui/TelaDeLogin.fxml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;800&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;TelaDeLogin.fxml&quot; partName=&quot;TelaDeLogin.fxml&quot; title=&quot;TelaDeLogin.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaDeLogin.fxml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/controle-gastos/src/main/java/gui/TelaDeLogin.fxml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;855&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.ui.genericeditor.GenericEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_0dWo4GReEfGPQMD3QnvhfQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TelaCriarConta.fxml" iconURI="platform:/plugin/org.eclipse.ui.genericeditor/icons/full/obj16/generic_editor.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;TelaCriarConta.fxml&quot; partName=&quot;TelaCriarConta.fxml&quot; title=&quot;TelaCriarConta.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaCriarConta.fxml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/controle-gastos/src/main/java/gui/TelaCriarConta.fxml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;960&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;TelaCriarConta.fxml&quot; partName=&quot;TelaCriarConta.fxml&quot; title=&quot;TelaCriarConta.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaCriarConta.fxml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/controle-gastos/src/main/java/gui/TelaCriarConta.fxml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1063&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.ui.genericeditor.GenericEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_DTR6MGXyEfGtNKiJi_DTZA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TelaPrincipal.fxml" iconURI="platform:/plugin/org.eclipse.ui.genericeditor/icons/full/obj16/generic_editor.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;TelaPrincipal.fxml&quot; partName=&quot;TelaPrincipal.fxml&quot; title=&quot;TelaPrincipal.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/TelaPrincipal.fxml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/controle-gastos/src/main/java/gui/TelaPrincipal.fxml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;114&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.ui.genericeditor.GenericEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_a0NsUGkQEfGXisnrDp3NYA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AdicionarGanhos.fxml" iconURI="platform:/plugin/org.eclipse.ui.genericeditor/icons/full/obj16/generic_editor.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;AdicionarGanhos.fxml&quot; partName=&quot;AdicionarGanhos.fxml&quot; title=&quot;AdicionarGanhos.fxml&quot; tooltip=&quot;controle-gastos/src/main/java/gui/AdicionarGanhos.fxml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/controle-gastos/src/main/java/gui/AdicionarGanhos.fxml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.ui.genericeditor.GenericEditor</tags>
@@ -270,6 +285,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1780962984568&quot;>&#xD;&#xA;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;>&#xD;&#xA;&lt;xmlDefinedFilters>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;/xmlDefinedFilters>&#xD;&#xA;&lt;/customFilters>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:Java</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_p-jhEGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.jdt.ui.PackageExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -291,7 +308,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_p8IfMGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.markers.ProblemsView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.ide"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Warnings&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Warnings (2 items)&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_qEkpgGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.views.ProblemView">
@@ -415,7 +432,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_p2ejIGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_eQIEoGRREfGPQMD3QnvhfQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ppyLRWOVEfG0-9Lze-WlzQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MTni8GkLEfGXisnrDp3NYA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ppyLRWOVEfG0-9Lze-WlzQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_p2ejIWOVEfG0-9Lze-WlzQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -423,8 +440,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_p2ejI2OVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_eQIrsGRREfGPQMD3QnvhfQ" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_ppwV8GOVEfG0-9Lze-WlzQ"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_eQIrsWRREfGPQMD3QnvhfQ" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_ppw9DGOVEfG0-9Lze-WlzQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MToKAGkLEfGXisnrDp3NYA" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_ppwV8GOVEfG0-9Lze-WlzQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MToKAWkLEfGXisnrDp3NYA" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_ppw9DGOVEfG0-9Lze-WlzQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_p2ejJGOVEfG0-9Lze-WlzQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -448,7 +465,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_p2fKMGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_eQJSw2RREfGPQMD3QnvhfQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ppyLAGOVEfG0-9Lze-WlzQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MToxEGkLEfGXisnrDp3NYA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ppyLAGOVEfG0-9Lze-WlzQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_p2fKMWOVEfG0-9Lze-WlzQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -497,7 +514,7 @@
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolControl" xmi:id="_nanvQGOWEfGYHZpsmiflgw" elementId="bottom(IDEWindow).(org.eclipse.jdt.ui.JavaPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+      <children xsi:type="menu:ToolControl" xmi:id="_nanvQGOWEfGYHZpsmiflgw" elementId="bottom(IDEWindow).(org.eclipse.jdt.ui.JavaPerspective)" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>
@@ -506,6 +523,10 @@
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_nygDwGOWEfGYHZpsmiflgw" elementId="org.eclipse.mylyn.tasks.ui.views.tasksMStack(IDEWindow).(org.eclipse.jdt.ui.JavaPerspective)" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_z20K8GkMEfGXisnrDp3NYA" elementId="PartStack@643ba7ba(IDEWindow).(org.eclipse.jdt.ui.JavaPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>
@@ -840,11 +861,16 @@
     <bindings xmi:id="_pqFF72OVEfG0-9Lze-WlzQ" keySequence="ALT+SHIFT+I" command="_ppwWLGOVEfG0-9Lze-WlzQ"/>
   </bindingTables>
   <bindingTables xmi:id="_pqDQzGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.ant.ui.AntEditorScope" bindingContext="_pp11aGOVEfG0-9Lze-WlzQ">
-    <bindings xmi:id="_pqDQzWOVEfG0-9Lze-WlzQ" keySequence="CTRL+SHIFT+F" command="_ppyyFmOVEfG0-9Lze-WlzQ"/>
+    <bindings xmi:id="_pqDQzWOVEfG0-9Lze-WlzQ" keySequence="CTRL+SHIFT+F" command="_ppyyFmOVEfG0-9Lze-WlzQ">
+      <tags>deleted</tags>
+    </bindings>
     <bindings xmi:id="_pqEe52OVEfG0-9Lze-WlzQ" keySequence="ALT+SHIFT+R" command="_ppvH5WOVEfG0-9Lze-WlzQ"/>
     <bindings xmi:id="_pqFF9mOVEfG0-9Lze-WlzQ" keySequence="ALT+SHIFT+O" command="_ppvHsmOVEfG0-9Lze-WlzQ"/>
     <bindings xmi:id="_pqFtCmOVEfG0-9Lze-WlzQ" keySequence="SHIFT+F2" command="_ppxj_WOVEfG0-9Lze-WlzQ"/>
     <bindings xmi:id="_pqGUC2OVEfG0-9Lze-WlzQ" keySequence="F3" command="_ppvHuGOVEfG0-9Lze-WlzQ"/>
+    <bindings xmi:id="_C4soQGX4EfGtNKiJi_DTZA" keySequence="CTRL+SHIFT+F" command="_ppwVxWOVEfG0-9Lze-WlzQ">
+      <tags>type:user</tags>
+    </bindings>
   </bindingTables>
   <bindingTables xmi:id="_pqD3zGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.debug.ui.memoryview" bindingContext="_pp11WmOVEfG0-9Lze-WlzQ">
     <bindings xmi:id="_pqD3zWOVEfG0-9Lze-WlzQ" keySequence="ALT+CTRL+M" command="_ppw852OVEfG0-9Lze-WlzQ"/>
@@ -2446,7 +2472,7 @@
   <addons xmi:id="_ppUQ92OVEfG0-9Lze-WlzQ" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_ppUQ-GOVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_ppczwGOVEfG0-9Lze-WlzQ" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_eG9hkGRREfGPQMD3QnvhfQ" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_pptScGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.team.ui.category.team" name="Version control (Team)" description="Actions that apply when working with a version control system"/>
   <categories xmi:id="_ppt5gGOVEfG0-9Lze-WlzQ" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>

@@ -1,0 +1,60 @@
+package gui;
+
+import javafx.scene.control.TextField;
+import java.io.IOException;
+
+import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.stage.Stage;
+
+public class TelaCriarContaController {
+	@FXML
+	private Button btCriarConta;
+	@FXML
+	private Button btVoltar;
+	@FXML
+	private TextField email;
+	@FXML
+	private TextField senha;
+	@FXML
+	private TextField repetirSenha;
+	
+	public void onBtVoltarAction() throws IOException{
+		Parent parent = FXMLLoader.load(getClass().getResource("/gui/TelaDeLogin.fxml"));
+		
+		Scene scene = new Scene(parent);
+		
+		Stage stage = (Stage) btVoltar.getScene().getWindow();
+		
+		stage.setScene(scene);
+		stage.show();
+			
+		
+	}
+	@FXML
+	public void onBtCriarContaAction() throws IOException {
+		String emailTxt = email.getText();
+	    String senhaTxt = senha.getText();
+	    String repetirSenhaTxt = repetirSenha.getText();
+	    
+	    if(){
+	    if(senhaTxt.equals(repetirSenhaTxt)) {
+	    	System.out.println("Email: " + emailTxt);
+		    System.out.println("Senha: " + senhaTxt);
+		    System.out.println("Senha 2" + repetirSenhaTxt);
+		    
+		    Parent parent = FXMLLoader.load(getClass().getResource("/gui/TelaDeLogin.fxml"));
+		    Scene scene = new Scene(parent);
+		    Stage stage = (Stage) btVoltar.getScene().getWindow();
+		    stage.setScene(scene);
+		    stage.show();
+		    
+	    }
+	    else {
+	    	System.out.println("As duas senhas devem ser iguais");
+	    }
+	}
+}
